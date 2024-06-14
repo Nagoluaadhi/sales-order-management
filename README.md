@@ -37,6 +37,7 @@ This project is a simple web application built with React for creating sale orde
 Open your browser and visit http://localhost:3000 to view the application.
 
 ## Technologies Used
+
 -React
 -React-datepicker
 -CSS
