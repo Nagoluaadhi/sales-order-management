@@ -1,4 +1,4 @@
-# React Sale Order Form
+# Sales-Order-Management
 
 This project is a simple web application built with React for creating sale orders. It allows users to select a customer, add products to the order, specify details like invoice number, date, and payment status, and submit the form to create a sale order.
 
