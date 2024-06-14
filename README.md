@@ -38,6 +38,7 @@ Open your browser and visit http://localhost:3000 to view the application.
 
 ## Technologies Used
 
--React.
--React-datepicker.
--CSS.
+
+-React
+-React-datepicker
+-CSS
